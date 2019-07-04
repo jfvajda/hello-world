@@ -1,2 +1,2 @@
 # hello-world
-My hell0, world repository
+My Hello, World! repository
